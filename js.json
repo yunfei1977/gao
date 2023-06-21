@@ -226,6 +226,7 @@
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 ],
+"extensions": ["https://ghproxy.com/https://raw.githubusercontent.com/tbx45687/gao/master/lib/alist.zip","https://ghproxy.com/https://raw.githubusercontent.com/tbx45687/gao/master/lib/drpy.zip"],
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
