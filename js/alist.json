@@ -1,5 +1,12 @@
 [
         {
+        "name" : "🙋丫仙女（修改自己地址）",
+        "server" : "http://192.168.31.22:5678",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro",
         "startPage" : "/",
