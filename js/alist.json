@@ -1,7 +1,7 @@
 [
         {
         "name" : "🙋丫仙女（内网自用）",
-        "server" : "http://192.168.31.22:5678",
+        "server" : "http://192.168.10.131:5678",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
